@@ -1,3 +1,4 @@
 # No external packages needed
 # Using Python standard library only (urllib, json, os)
 # This keeps deployment fast and dependency-free
+# No external dependencies needed - using stdlib only
