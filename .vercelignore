@@ -1,2 +1,4 @@
-__pycache__/
-*.pyc
+# Correct .vercelignore syntax — one pattern per line
+node_modules
+.env.local
+*.log
