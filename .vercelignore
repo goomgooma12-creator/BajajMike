@@ -1,4 +1,2 @@
-# Prevent Vercel from using uv and pyproject.toml
-# This fixes the "No 'project' table found" build error
 pyproject.toml
 uv.lock
