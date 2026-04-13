@@ -1,2 +1,8 @@
+# Force Vercel to skip uv completely
 pyproject.toml
 uv.lock
+.python-version
+Pipfile
+Pipfile.lock
+__pycache__/
+*.pyc
