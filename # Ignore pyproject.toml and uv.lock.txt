@@ -1,0 +1,3 @@
+# Ignore pyproject.toml and uv.lock so Vercel uses requirements.txt instead
+pyproject.toml
+uv.lock
